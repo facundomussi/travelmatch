@@ -159,6 +159,9 @@ section h2 {
   z-index: -100;
 }
 
+.parrafo {
+  font-size: 30px;
+}
 /* These just style the content */
 
 h1.primero {
@@ -172,7 +175,6 @@ h1.primero {
   text-align: center;
   font-weight: lighter;
 }
-
 
 section.download {
   position: relative;
